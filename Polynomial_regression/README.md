@@ -5,10 +5,10 @@
 
   Description:
  
-  This application perform a simple polynomial regression onnobservations 
+  This application perform a simple polynomial regression on observations 
   by finding coefficients β0,β1,...,βp to a degree p polynomial such that each xi is closet to yi. 
   For the methods, analyse the performance and convergence for a range of polynomial degrees.
-  For each method, plot the solution polynomial and the dataset together.
+  Plot the solution polynomial and the dataset together.
 
 
 
