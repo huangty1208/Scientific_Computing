@@ -25,10 +25,5 @@ The performance comparison is listed below:
      5000                       492.7 %
 
 
-References:
-
-https://stackoverflow.com/questions/8478007/gauss-seidel-method-to-compute-3-systems-of-linear-equations
-https://codereview.stackexchange.com/questions/88879/linear-system-solver-using-gauss-jordan-elimination
-
 
 
