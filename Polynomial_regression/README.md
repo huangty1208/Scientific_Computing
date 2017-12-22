@@ -40,7 +40,7 @@
   
   Code Verification:
   run ./test to get the the difference between numerical solution and the 
-  analytic solutionthe. The residuals will be written in verireport.dat. TTS will be shown.
+  analytic solution. The residuals will be written in verireport.dat. TTS will be shown.
 
  
 
